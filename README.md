@@ -3,7 +3,7 @@ Open source reference "verification" tool using R, API (Ollama as is) and open w
 
 **Warning**: LLMs are stochastic.
 
-My experience is that this works well enough (although not yet perfect) to more quickly verify textual claims yourself. Your experience may vary. The licence, Apache 2.0, is permissive to encourage use and improvents. 
+My experience is that this works well enough (although not yet perfect) to more quickly verify textual claims yourself. Your experience may vary. The licence, Apache 2.0, is permissive to encourage use and improvements. 
 
 If this program is, was, has been, or will be of interest to you in the near future in any way, I would appreciate to hear from you regarding business opportunities (primarily in Norway) at: bakke.hindenes@proton.me 
 
