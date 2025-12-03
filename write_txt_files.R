@@ -1,3 +1,4 @@
+# Script for writing or exporting the list of claims into txt files, ready for use in other programs or context...
 
 write_totxt = function(text_list,
                        file_base_path = output_txt_files_path){
@@ -21,7 +22,6 @@ write_totxt = function(text_list,
   print("Finished..?")
   
 }
-
 
 
 

@@ -1,4 +1,4 @@
-
+#Lowest level validate claim function
 
 checking_unverified_claims_llm = function(in_claim,
                                           in_pdf_path,
@@ -6,7 +6,7 @@ checking_unverified_claims_llm = function(in_claim,
                                           use_model = "cogito:8b",
                                           use_context = 20000,
                                           use_temp = 0.5,
-                                          in_fun_model = ollama_chat, #For different API calls via tidyllm
+                                          in_fun_model = ollama_chat, #For different API calls via tidyllm, i.e. function as input
                                           timer_bool = TRUE){
   
   #Packages...

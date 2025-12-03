@@ -1,6 +1,6 @@
 ##
 ## Environment for testing and running the 
-## Checking Unverified Claims Iteratively with N-repeat Generation process
+## Checking Unverified Claims Iteratively with N-repeat Generation process, using no clickable UI...
 ##
 
 
@@ -68,6 +68,8 @@ output_txt_files_path = "output_test_run" #Folder name...
 
 write_totxt(text_list = out_test_list,
             file_base_path = output_txt_files_path)
+
+
 
 
 

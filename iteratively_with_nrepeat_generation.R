@@ -1,4 +1,4 @@
-
+#Iterate over lowest level claim validation per source and repeat generations.
 
 iteratively_with_nrepeat_generation = function(in_nested_list, #with list of claim(s) and pdf path(s)
                                                n_repeat = 5,
