@@ -1,5 +1,5 @@
 # checking_unverified_claims_iteratively_nrepeat_generation
-Open source reference "verification" tool using R, API (Ollama as is) and open weight LLMs. More automatically verify claims to the best of LLMs capability, given available text to verify and corresponding pdf of references. Prototyped and built using ChatGPT (https://chatgpt.com/).
+Open source claim-to-reference "verification" tool using R, API (Ollama as is) and open weight LLMs. More automatically verify claims to the best of LLMs capability, given available text to verify and corresponding pdf of references. Prototyped and built using ChatGPT (https://chatgpt.com/).
 
 **Warning**: LLMs are stochastic.
 
